@@ -1,0 +1,5 @@
+com\capg\otm\OnlineTestManagementSystemApplication.class
+com\capg\otm\controller\TestController.class
+com\capg\otm\model\Test.class
+com\capg\otm\dao\TestDao.class
+com\capg\otm\service\TestService.class
